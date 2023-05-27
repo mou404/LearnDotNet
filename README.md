@@ -1,2 +1,2 @@
-# LearnDotNet
-hhhh
+# 前言
+本项目主要用于记录个人DotNet的学习历程
