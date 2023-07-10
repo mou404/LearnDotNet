@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnC#", "LearnC#\LearnC#.csproj", "{BB85462F-204E-435C-9D3E-6986CC8D2EFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnC#", "LearnC#\LearnC#.csproj", "{BB85462F-204E-435C-9D3E-6986CC8D2EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnLINQ", "LearnLINQ\LearnLINQ.csproj", "{0E00CF5E-26AA-4164-A9E0-A0AF00422847}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnLINQ", "LearnLINQ\LearnLINQ.csproj", "{0E00CF5E-26AA-4164-A9E0-A0AF00422847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnEFCore", "LearnEFCore\LearnEFCore.csproj", "{FC228719-DCCF-48A7-B69E-44DE6690C605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnEFCore", "LearnEFCore\LearnEFCore.csproj", "{FC228719-DCCF-48A7-B69E-44DE6690C605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnSQLSugar", "LearnSQLSugar\LearnSQLSugar.csproj", "{50589CEF-9DAD-41BA-A4D7-EC29C8437ECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnSQLSugar", "LearnSQLSugar\LearnSQLSugar.csproj", "{50589CEF-9DAD-41BA-A4D7-EC29C8437ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnFreeSQL", "LearnFreeSQL\LearnFreeSQL.csproj", "{5C580590-79B9-475A-BA5A-FB38FC4BFF70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{50589CEF-9DAD-41BA-A4D7-EC29C8437ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50589CEF-9DAD-41BA-A4D7-EC29C8437ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50589CEF-9DAD-41BA-A4D7-EC29C8437ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C580590-79B9-475A-BA5A-FB38FC4BFF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C580590-79B9-475A-BA5A-FB38FC4BFF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C580590-79B9-475A-BA5A-FB38FC4BFF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C580590-79B9-475A-BA5A-FB38FC4BFF70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
