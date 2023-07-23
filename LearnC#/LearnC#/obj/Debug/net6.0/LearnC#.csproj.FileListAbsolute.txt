@@ -1,0 +1,15 @@
+D:\Code\LearnDotNet\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.exe
+D:\Code\LearnDotNet\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.deps.json
+D:\Code\LearnDotNet\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.runtimeconfig.json
+D:\Code\LearnDotNet\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.dll
+D:\Code\LearnDotNet\LearnC#\LearnC#\bin\Debug\net6.0\LearnC#.pdb
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.csproj.AssemblyReference.cache
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.AssemblyInfoInputs.cache
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.AssemblyInfo.cs
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.csproj.CoreCompileInputs.cache
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.dll
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\refint\LearnC#.dll
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.pdb
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\LearnC#.genruntimeconfig.cache
+D:\Code\LearnDotNet\LearnC#\LearnC#\obj\Debug\net6.0\ref\LearnC#.dll

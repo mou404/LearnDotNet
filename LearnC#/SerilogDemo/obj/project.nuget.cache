@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mw0jIGz/i52wvpc5nIWK4e3D0B+Ri/sa4EEE/014V49NlMX3JETV9gPfUE3M6FVTchPcVLP7VZTsr3cASBYVYw==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\LearnDotNet\\LearnC#\\SerilogDemo\\SerilogDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mousd\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\Mousd\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mousd\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\Mousd\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

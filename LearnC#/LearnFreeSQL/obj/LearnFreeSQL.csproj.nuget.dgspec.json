@@ -44,7 +44,31 @@
               "target": "Package",
               "version": "[3.2.698, )"
             },
+            "FreeSql.DbContext": {
+              "target": "Package",
+              "version": "[3.2.698, )"
+            },
+            "FreeSql.Extensions.JsonMap": {
+              "target": "Package",
+              "version": "[3.2.698, )"
+            },
+            "FreeSql.Extensions.LazyLoading": {
+              "target": "Package",
+              "version": "[3.2.698, )"
+            },
+            "FreeSql.Provider.Oracle": {
+              "target": "Package",
+              "version": "[3.2.698, )"
+            },
             "FreeSql.Provider.SqlServer": {
+              "target": "Package",
+              "version": "[3.2.698, )"
+            },
+            "FreeSql.Provider.Sqlite": {
+              "target": "Package",
+              "version": "[3.2.698, )"
+            },
+            "FreeSql.Repository": {
               "target": "Package",
               "version": "[3.2.698, )"
             }
@@ -65,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
